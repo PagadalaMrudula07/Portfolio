@@ -1,0 +1,81 @@
+body{
+    background-color: #e7fafc; padding:20px;
+}
+h1{
+    text-align: center;font-size: 30px;
+}
+h1:hover{
+    text-decoration: line-through; 
+}
+p{
+    text-align: center;font-size: 20px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+padding:5px;font-weight: bold;
+     text-decoration: none; color: rgb(226, 97, 118);
+}
+nav a:hover{
+background-color: rgb(226, 97, 118);color:white;
+}
+section{
+    background-color: white;;width:800px;
+    margin:30px auto;border-radius: 10px;
+    padding:20px auto;box-shadow: 0 5px 13px black; 
+}
+hr{
+    margin:30px auto;width:800px;border:2px solid red;
+}
+figure{
+    text-align: center;
+}
+figure img{
+    border-radius: 50%; border:3px solid blue ;
+}
+figure img:hover{
+    box-shadow: #e7fafc; color: aqua;
+    }
+figcaption{
+    font-size: 30px;
+}
+section ul{
+    text-align: center; padding: 20px;
+}
+section h2{
+    border-bottom: 2px solid blue; padding-bottom: 20px;
+}
+article:hover{
+    background-color: white; padding: 20px; margin : 20px; border-left: 4px blue solid; border-radius: 10px ;
+    transition:all 0.5 ease;
+}
+h3{
+    font-size: 35px;
+}
+summary{
+    font-size: 30px;
+}
+li{
+    background-color:#e7fafc; margin-bottom: 10px; padding: 10px; font-size: 25px; text-align :left ;
+}
+ul,ol{
+    list-style-type: none; 
+}
+form{
+ text-align: center;
+}
+input,textarea{
+    width: 100%; margin: 8px;
+}
+button {
+    background-color: cornflowerblue; color: azure; padding: 10px; margin-inline: 5px; border-color: black;
+}
+button:hover{
+    background-color:rgb(140, 140, 231);color: white;
+}
+a{
+    text-decoration: none;
+}
+
+
